@@ -1,4 +1,4 @@
-# Tere! Mina olen [Karmo Nopri]
+# Tere! Mina olen Karmo Nopri
  
 ## 🎯 Andmeanalüütiku Karjääri Algus
  
